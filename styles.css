@@ -6,9 +6,9 @@
 
 div{
 	padding:15px;
-	border: 1px solid gray;
 	background-color: #ffffff;
-	margin:15px;
+	border: 1px solid gray;
+/* 	margin:15px; */
 }
 .author{
 	text-align:right;
